@@ -1,0 +1,33 @@
+.header {
+    margin-left: 30%;
+    color: gray;
+
+  }
+  .back{
+     
+      margin-top: 1%;
+  }
+  .title{
+      text-align: center;
+      margin-top: 3%;
+  }
+  .form{
+    text-align: center;
+  }
+  .bottonEnter{
+     background-color: #337ab7;
+     height: 20pt;
+      width: 50pt;
+      border: 5px;
+      border-radius: 5pt;
+      margin-top: 1%;
+  }
+  .btn{
+    display: inline-block; /* Строчно-блочный элемент */ 
+    background-color: navajowhite; /* Серый цвет фона */
+    border-style: dotted;
+     color : black; /* Белый цвет текста */
+      padding: 0.4% 1%; /* Поля вокруг текста */ 
+      text-decoration: none; /* Убираем подчёркивание */
+       
+  }
